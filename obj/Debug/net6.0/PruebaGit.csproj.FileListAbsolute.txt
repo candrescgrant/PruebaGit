@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\PruebaGit\bin\Debug\net6.0\PruebaGit.exe
+C:\Users\Usuario\source\repos\PruebaGit\bin\Debug\net6.0\PruebaGit.deps.json
+C:\Users\Usuario\source\repos\PruebaGit\bin\Debug\net6.0\PruebaGit.runtimeconfig.json
+C:\Users\Usuario\source\repos\PruebaGit\bin\Debug\net6.0\PruebaGit.dll
+C:\Users\Usuario\source\repos\PruebaGit\bin\Debug\net6.0\PruebaGit.pdb
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.dll
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\refint\PruebaGit.dll
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.pdb
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\PruebaGit.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\PruebaGit\obj\Debug\net6.0\ref\PruebaGit.dll
